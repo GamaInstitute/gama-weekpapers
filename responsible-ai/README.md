@@ -1,6 +1,6 @@
 # 💻 IA Responsable
 
-Cette section regroupe les présentations d'articles scientifiques en génie logiciel.
+Cette section regroupe les présentations d'articles scientifiques en IA responsable, fiable et de confiance.
 
 | Présentation | Article | YouTube |
 |--------------|---------|----------|
